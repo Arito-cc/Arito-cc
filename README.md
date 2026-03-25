@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Abhishek 👋
 
-<!--
-**Arito-cc/Arito-cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer (MERN) focused on building real-world applications.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- UniFix – Issue reporting system with role-based access  
+- VintageVerse – MERN blog platform with authentication  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- JavaScript, React, Node.js, MongoDB  
+- HTML, CSS  
+- MySQL  
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/abhishekchaudharycc
