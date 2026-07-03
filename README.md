@@ -28,7 +28,7 @@
 
 ### 🏆 Milestones
 
-* [ ] 25 Problems
+* [*] 25 Problems
 * [ ] 50 Problems
 * [ ] 75 Problems
 * [ ] 100 Problems
